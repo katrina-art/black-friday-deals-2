@@ -11,9 +11,9 @@ Please follow the rules below:
 
 ## Productivity
 
-|  | Name | Description | Deal details | Date |
-|--|------|-------------|--------------|------|
-|🤑|[CompressX](https://compressx.app/)|CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality|30% OFF with code **BLACKFRIDAY2024**|25 Nov to 8 Dec|
+|  | Name | Description | Deal details |
+|--|------|-------------|--------------|
+|💸|[CompressX](https://compressx.app/)|CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality|30% OFF with code **BLACKFRIDAY2024** - from 25 Nov to 8 Dec|
 
 ---
 
