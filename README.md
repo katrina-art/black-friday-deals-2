@@ -20,8 +20,6 @@ Please follow the rules below:
 |💸|[Monkey Notes](https://jontelang.com/monkeynotes) | Sticky notes that attaches directly to your macOS windows| **BLACKFRIDAY2024** 25% off|
 |💸|[DevControls](https://jontelang.com/DevControls) | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off|
 
-BLACKFRIDAY2024
-
 ---
 
 # Special Request 
