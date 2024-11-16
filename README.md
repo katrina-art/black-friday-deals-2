@@ -20,6 +20,7 @@ Please follow the rules below:
 |💸|[Monkey Notes](https://jontelang.com/monkeynotes) | Sticky notes that attaches directly to your macOS windows| **BLACKFRIDAY2024** 25% off|
 |💸|[DevControls](https://jontelang.com/DevControls) | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off|
 |🤑|[Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
+|🤑|[TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM2024** |
 
 ---
 
