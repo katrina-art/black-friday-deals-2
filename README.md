@@ -19,6 +19,7 @@ Please follow the rules below:
 |💸|[ScreenMemory](https://screenmemory.app)|Photographic memory for your macOS screen, rewind time on your screen|**BLACKFRIDAY2024** 25% off|
 |💸|[Monkey Notes](https://jontelang.com/monkeynotes) | Sticky notes that attaches directly to your macOS windows| **BLACKFRIDAY2024** 25% off|
 |💸|[DevControls](https://jontelang.com/DevControls) | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off|
+|🤑|[Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 
 ---
 
