@@ -9,7 +9,7 @@ Please follow the rules below:
 |💸|< 50%|
 |🤑|>= 50%|
 
-## Productivity
+## Deals
 
 |  | Name | Description | Deal details |
 |--|------|-------------|--------------|
