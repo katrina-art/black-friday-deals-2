@@ -23,6 +23,8 @@ Please follow the rules below:
 |🤑|[TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM2024** |
 |🤑|[SubManager](https://submanager.app/) | Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world. | 80% off ($0.99) from Nov 29 to Dec 2 |
 |🤑|[MindPal](https://mindpal.io) | Build AI agents & multi-agent workflows to automate business processes | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** |
+|🤑|[Quick Notes: Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. | 50% OFF YEARLY plan |
+|🤑|[Digital Photo Frame](https://www.digitalphotoframeapp.com) | The most gorgeous and powerful photo player application. Available for iOS, iPadOS, and macOS. | 50% OFF YEARLY plan |
 
 ---
 
